@@ -1,0 +1,10 @@
+Let's just stop thinking data is perfect. It's not. 
+Data is primarily human-made. "Data-driven" doesn't mean "unmistakably true", and it never did. 
+It's time to leave behind any presumption of absolute control and universal truth and embrace an informed depiction of the big numbers and small imperfections that work together to describe reality. 
+And data visualization should embrace imperfection and approximation, allowing us to envision ways to use data to feel more empathic, to connect with ourselves and others at a deeper level. The more effort we put into researching and translating, the easier the reader will understand and relate to the stories we tell. We should learn how to include and render the more qualitative and nuanced aspects of data. We should experiment with how to visualize uncertainty, possible errors and imperfections in our data. 
+
+We have to find new languages, and explore how to convey knowledge and inspire feelings simultaneously with data. We have to explore how to be faithful to scientific accuracy while allowing space for exceptions to flourish. 
+We have to bring data to life — human life.
+
+
+Giorgia Lupi
